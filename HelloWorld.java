@@ -1,4 +1,4 @@
-puclic class HelloWorld{
+public class HelloWorld{
 
 public static void manin(String[] args){
 
